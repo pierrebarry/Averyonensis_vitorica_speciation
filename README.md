@@ -11,18 +11,14 @@ Scripts and files to generate results and output of the *Ophrys vitorica* - *O. 
 
 ## :wrench: Tools needed
 
-* [fastp v.0.20.0](https://github.com/OpenGene/fastp)
-* [jellyfish v.2.2.10](https://github.com/gmarcais/Jellyfish)
-* [GenomeScope v.1.0](https://github.com/schatzlab/genomescope)
+* [fastp v.1.3.4](https://github.com/OpenGene/fastp)
 * [bwa v.0.7.17](http://bio-bwa.sourceforge.net/bwa.shtml)
-* [picard v.2.23.2](https://broadinstitute.github.io/picard/)
-* [GATK v.4.1.6.0](https://gatk.broadinstitute.org/hc/en-us/articles/360036194592-Getting-started-with-GATK4)
-* [vcftools v.0.1.17](https://vcftools.github.io/index.html)
-* [SLiM v.3.3.1](https://messerlab.org/slim/)
-* [AgeNE](https://figshare.com/articles/dataset/Supplement_1_AgeNe_a_program_to_calculate_Ne_and_Nb_in_age-structured_populations_/3551643?backTo=/collections/Calculating_i_N_i_sub_e_sub_and_i_N_i_sub_e_sub_i_N_i_in_age-structured_populations_a_hybrid_Felsenstein-Hill_approach/3304059)
-* [snakemake v.3.5.0](https://github.com/snakemake/snakemake)
-* [R v.3.6.1](https://cran.r-project.org/bin/windows/base/old/3.6.1/)
-
-## :red_circle: Youtube video
-
-For french-speakers, [a youtube video](https://www.youtube.com/watch?v=98pTKuRNgAE&list=PL_rJBQvKDsY--gDXJ5d21QWQboa9OoGmh&index=3) summarising in 10 minutes the article.
+* [samtools v.1.19](https://github.com/samtools/samtools/releases/)
+* [bcftools v.1.19](https://samtools.github.io/bcftools/bcftools.html)
+* [vcftools v.0.1.16](https://vcftools.github.io/index.html)
+* [snakemake v.9.4.0](https://github.com/snakemake/snakemake)
+* [R v.4.4.1](https://cran.r-project.org/bin/windows/base/old/4.4.1/)
+* [iSMC v.0.0.23](https://github.com/gvbarroso/iSMC)
+* [mosdepth v.0.2.6](https://github.com/brentp/mosdepth)
+* [ngsParalog v.1.3.4](https://github.com/tplinderoth/ngsParalog)
+* [getorganelle v.1.7.5.0](https://github.com/kinggerm/getorganelle)
