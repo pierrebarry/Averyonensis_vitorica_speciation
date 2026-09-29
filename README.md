@@ -7,7 +7,25 @@ Scripts and files to generate results and output of the *Ophrys vitorica* - *O. 
 :file_folder: Files:
 
 :bar_chart: Scripts:
-- `snakefile.py` : display sampling locations of all individuals
+- `snakefile.py` : general script 
+
+## Read filtering, trimming and mapping
+
+:file_folder: Files:
+
+:bar_chart: Scripts:
+- `extract_fastp.py` : get content of reads after reads trimming and filtering
+- `get_mapping_statistics.R` : get mapping statistics
+
+## Estimation of recombination rate
+
+:file_folder: Files:
+
+:bar_chart: Scripts:
+- `iSMC/create_tab.py` : create tab file to run iSMC
+- `iSMC/make_input_iSMC.R` : create input to run iSMC
+- `get_iSMC_windows.py` : get mean recombination rate inferred by iSMC per custom genomic window size
+- `plot_iSMC.R` : plot recombination rate along the genome
 
 ## :wrench: Tools needed
 
